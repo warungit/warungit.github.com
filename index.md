@@ -5,9 +5,10 @@ tagline: Online Market Place based Github Pages
 ---
 {% include JB/setup %}
 
-<ul class="posts">
+<div class="container">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-    <li>{{ content }}
+  <div class='posts'>
+    <h1><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <p>{{ content }}</p>
   {% endfor %}
-</ul>
+  </div>
