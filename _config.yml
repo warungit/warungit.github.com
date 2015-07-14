@@ -11,10 +11,10 @@ highlighter: pygments
 title : warunGIT
 tagline: Our Online Marketplace 
 author :
-  name : Fariz Rizaldy
+  name :warunGIT
   email : farizrizaldy@outlook.co.id 
   github : warungit
-  twitter : 
+  twitter : gitwarung
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
