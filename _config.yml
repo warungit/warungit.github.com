@@ -10,7 +10,7 @@ highlighter: pygments
 #
 title : warunGIT
 tagline: Our Online Marketplace 
-author :
+author : warunGIT
   name : warunGIT
   email : farizrizaldy@outlook.co.id 
   github : warungit
@@ -121,6 +121,11 @@ JB :
   # Set 'provider' to the sharing provider you want to use.
   # Set 'provider' to false to turn sharing off globally.
   #
+  
+  addthis:
+  pubid: XZY-ID
+  image:/path/to/share/img
+  
   sharing :
     provider : twitter
     
