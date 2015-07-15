@@ -3,7 +3,7 @@ layout: post
 title: "Dijual Stiker Ubuntu!"
 description: "Jual stiker ubuntu"
 category: toko
-tags: []
+tags: [toko]
 ---
 {% include JB/setup %}
 
