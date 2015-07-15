@@ -5,6 +5,15 @@
 /* Compass Vars */
 /* Override some defaults */
 /* line 13, ../_sass/_base.scss */
+
+.tombol{
+background:#4cb4e8;
+padding:5px;
+color:black;
+border:1px solid #4cb4e8;
+border-radius:3px;
+}
+
 html, body {
   background-color: #2a2a2a;
   background: url(../images/bgs/body.png) repeat;

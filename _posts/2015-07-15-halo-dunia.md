@@ -6,6 +6,6 @@ category:
 tags: []
 ---
 
-Ini postingan loh
-
 {% include JB/setup %}
+
+Ternyata menggunakan jekyll tak sesulit yang kami khawatirkan. Dan tak semudah yang kami kira. So, Keep Commit, and Always learning :) We Love you, Open Source!

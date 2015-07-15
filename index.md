@@ -10,7 +10,7 @@ tagline: di Online Market Place based Github Pages
   <div class='posts'>
     <h1><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h1>
     {{ post.content }}
-	<a href="{{ BASE_PATH }}{{post.url}}">Lihat</a>
+	<a href="{{ BASE_PATH }}{{post.url}}" class='tombol'>Lihat</a>
 	<hr>
   {% endfor %}
   </div>

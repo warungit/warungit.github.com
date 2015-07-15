@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "assalamualaikum"
+title: "Assalamualaikum"
 description: ""
-category: 
+category:  
 tags: []
 ---
 {% include JB/setup %}
-Haha
+This is our first post in here! Now, let's pull request and happy contributing :)
