@@ -15,7 +15,7 @@ author :
   email : farizrizaldy@outlook.co.id 
   github : warungit
   twitter : gitwarung
-  feedburner : feedname
+  feedburner : gitwarung
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://warungit.github.io
+production_url : https://warungit.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -122,7 +122,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : twitter
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
