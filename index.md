@@ -5,6 +5,10 @@ tagline: di Online Market Place based Github Pages
 ---
 {% include JB/setup %}
 
+<div style='background:#aec777;color:black;border:1px solid #aec777;border-radius:5px;padding:3px;text-align:center;'>
+Cek cara Posting <a href='https://warungit.github.io/new-page.html'>Disini</a> Terima Kasih :)
+</div>
+
 <div class="container">
   {% for post in site.posts %}
   <div class='posts'>
