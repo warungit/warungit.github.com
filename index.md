@@ -18,3 +18,4 @@ Cek cara Posting <a href='https://warungit.github.io/new-page.html'>Disini</a> T
 	<hr>
   {% endfor %}
   </div>
+{% share_link twitter %} 
